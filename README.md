@@ -19,3 +19,6 @@ Use the firmware from the "old/IlluminationboardV2_00" folder.
 As of revision 2 the MCU pinout has been changed. It is no longer required to install the above package, as it now works with the standard Arduino MKRZERO package.
 
 Use the firmware from the "_latest" folder.
+
+### ROS
+See _latest/illuminationboard_v2_ros/datasheet/IlluminationBoard V2 - datasheet.pdf for more information on how to use the IlluminationBoard with ROSSerial.
